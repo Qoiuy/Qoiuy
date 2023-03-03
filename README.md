@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:qoiuy-->
 
 ```text
 Docker   3 hrs 52 mins   █████████████████▒░░░░░░░   69.20 %
@@ -8,7 +8,7 @@ Python   1 hr 13 mins    █████▒░░░░░░░░░░░░�
 Other    28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:qoiuy-->
 
 <!--
 **Qoiuy/Qoiuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
