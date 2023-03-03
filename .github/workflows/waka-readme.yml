@@ -19,4 +19,4 @@ jobs:
           REPOSITORY: Qoiuy/Qoiuy
           BLOCKS: ░▒▓█
           TIME_RANGE: last_7_days
-          SECTION_NAME: qoiuy
+          # SECTION_NAME: qoiuy
