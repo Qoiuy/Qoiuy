@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: "0 0 * * *" # runs at every 12AM UTC
+    - cron: "0 * * * *" # 一小时触发一次
 
 jobs:
   update-readme:
@@ -19,4 +19,4 @@ jobs:
           REPOSITORY: Qoiuy/Qoiuy
           BLOCKS: ░▒▓█
           TIME_RANGE: last_7_days
-          # SECTION_NAME: qoiuy
+          SECTION_NAME: qoiuy
