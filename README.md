@@ -3,9 +3,9 @@
 <!--START_SECTION:qoiuy-->
 
 ```text
-Python             8 hrs 25 mins   █████████████▓░░░░░░░░░░░   55.24 %
-Docker             4 hrs 12 mins   ███████░░░░░░░░░░░░░░░░░░   27.61 %
-Other              46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+Python             11 hrs 52 mins  ████████████████░░░░░░░░░   63.47 %
+Docker             4 hrs 12 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.50 %
+Other              46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
 ```
 
 <!--END_SECTION:qoiuy-->
