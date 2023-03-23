@@ -3,9 +3,7 @@
 <!--START_SECTION:qoiuy-->
 
 ```text
-Jupyter   17 mins         █████████████████▒░░░░░░░   68.93 %
-Python    5 mins          ██████░░░░░░░░░░░░░░░░░░░   23.88 %
-CSV/TSV   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:qoiuy-->
